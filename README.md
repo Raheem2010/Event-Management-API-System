@@ -129,7 +129,7 @@ Adeniyi Adeyemi
 AltSchool of Engineering – Backend Track
 Email: [adeyemiadeniyi97@gmail.com]
 GitHub: https://github.com/Raheem2010
-LinkedIn:
+LinkedIn: [https://www.linkedin.com/in/adeniyi-adeyemi]
 
 
 📎 License
