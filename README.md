@@ -61,12 +61,12 @@ Note: This project uses in-memory data (lists) and is not connected to a databas
 
 📦 Setup Instructions
 
-Clone the repository
+1. Clone the repository
 
 https://github.com/Raheem2010/event-management-api.git
 cd event-management-api
 
-Create and activate a virtual environment
+2.Create and activate a virtual environment
 
 python -m venv venv
 # On Windows
@@ -74,15 +74,15 @@ venv\Scripts\activate
 # On Unix or MacOS
 source venv/bin/activate
 
-Install dependencies
+3. Install dependencies
 
 pip install -r requirements.txt
 
-Run the FastAPI app
+4. Run the FastAPI app
 
 uvicorn app.main:app --reload
 
-Open your browser and visit:
+5. Open your browser and visit:
 
 http://127.0.0.1:8000/docs
 
