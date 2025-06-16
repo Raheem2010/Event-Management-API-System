@@ -10,40 +10,40 @@ This project is a FastAPI-based Event Management System developed as part of the
 
 **User Management**
 
-Create and list users
+-Create and list users
 
-Update and Delete users
+-Update and Delete users
 
-Deactivate users 
+-Deactivate users 
 
 **Event Management**
 
-Create, list, and close events
+-Create, list, and close events
 
-Mark events as closed rather than deleting
+-Mark events as closed rather than deleting
 
 **Speaker Management**
 
-View all event speakers
+-View all event speakers
 
 **Registration & Attendance**
 
-Register users for events
+-Register users for events
 
-Prevent duplicate registrations
+-Prevent duplicate registrations
 
-Mark attendance for registered users
+-Mark attendance for registered users
 
 
 🧾 Technologies Used
 
-Python 3.10+
+-Python 3.10+
 
-FastAPI
+-FastAPI
 
-Uvicorn (ASGI server)
+-Uvicorn (ASGI server)
 
-Pydantic
+-Pydantic
 
 Note: This project uses in-memory data (lists) and is not connected to a database.
 
@@ -52,11 +52,11 @@ Note: This project uses in-memory data (lists) and is not connected to a databas
 
 ✅ Prerequisites
 
-Make sure you have:
+-Make sure you have:
 
-Python 3.10+ installed
+-Python 3.10+ installed
 
-Git installed
+-Git installed
 
 
 📦 Setup Instructions
