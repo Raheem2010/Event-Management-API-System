@@ -1,12 +1,9 @@
+🗂️ Event Management API System
 This project is a FastAPI-based Event Management System developed as part of the AltSchool of Engineering's Tinyuka Second Semester Python Project. It enables users to:
-
-Register for events
-
-Manage speakers
-
-Track attendance
-
-Simulate CRUD operations for users, events, and registrations using in-memory data structures
+- Register for events
+- Manage speakers
+- Track attendance
+- Simulate CRUD operations for users, events, and registrations using in-memory data structures
 
 
 🚀 Features
